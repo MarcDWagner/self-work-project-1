@@ -11,4 +11,3 @@ I have not felt very confident in my javascript abilities so I am taking time be
 ## License
 
 MIT
-
